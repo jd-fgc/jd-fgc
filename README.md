@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # `> whoami` &nbsp;—&nbsp; YOUR_NAME
 
@@ -94,4 +94,4 @@ Side projects built during game jams and free time:
 
 *"The norm is not a bug, it's a feature."* — every 42 student, crying
 
-</div>
+</div> -->
